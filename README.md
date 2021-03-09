@@ -1,9 +1,9 @@
 # This is a repository for a manuscript, Kojima et al. at the time of initial upload to bioRxiv. 
 
 ### Scripts
-- The endogenous HHV-6 reconstruction pipeline is in the separate repository: https://github.com/shohei-kojima/integrated_HHV6_recon
-- The virus search pipeline is in the separate repository: https://github.com/shohei-kojima/virus_nucleotide_detection
-- The pipeline for HERV-K k-mer counting is in the separate repository: https://github.com/shohei-kojima/hervk_kmers
+- The endogenous HHV-6 reconstruction pipeline is in the separate repository: https://github.com/GenomeImmunobiology/Kojima_et_al_2021_integrated_HHV6_recon
+- The virus search pipeline is in the separate repository: https://github.com/GenomeImmunobiology/Kojima_et_al_2021_virus_nucleotide_detection
+- The pipeline for HERV-K k-mer counting is in the separate repository: https://github.com/GenomeImmunobiology/Kojima_et_al_2021_hervk_kmers
 - The other scripts used in the manuscript are found under the `scripts` directory.
 
 
